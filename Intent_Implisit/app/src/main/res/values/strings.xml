@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent_Implisit</string>
+    <string name="edittext_uri">http://www.polinema.ac.id</string>
+    <string name="button_uri">Button</string>
+    <string name="edittext_loc">Poli Teknik Negeri Malang</string>
+    <string name="button_loc">Button</string>
+</resources>
